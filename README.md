@@ -123,9 +123,9 @@ Each experimental configuration generates the following outputs:
 
 ## Submitted by:
 
+* Harshith Babu Prakash Babu
 * Riya Biju
 * Harsha Sathish
-* Harshith Babu Prakash Babu
 
 **Course:** Computer Vision - Portfolio Exam 3  
 **Institution:** Technische Hochschule Würzburg-Schweinfurt (THWS)  
